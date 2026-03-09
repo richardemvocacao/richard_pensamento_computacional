@@ -1,1 +1,1 @@
-# richard_pensamento_computacional
+# richard_pensamento_computacional_projeto
