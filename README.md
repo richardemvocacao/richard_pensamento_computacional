@@ -1,0 +1,1 @@
+# richard_pensamento_computacional
