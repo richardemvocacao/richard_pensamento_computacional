@@ -53,3 +53,10 @@ while True:
         servico_cliente = input(" digite o novo serviço (corte / barba / Corte + Barba): ")
         print("Serviço alterado com sucesso!")
     
+    elif escolha == '4':
+
+        print("cancelar agendamento")
+        cliente = input("digite o nome do cliente para cancelar o agendamento: ") 
+        horario = input("digite o horario do agendamento para cancelar: ") 
+        print("cancelamento com sucesso!")
+        
