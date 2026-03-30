@@ -90,4 +90,3 @@ while True:
 
     else:
         print("\n[AVISO] Opção inválida! Tente novamente.")
-        
